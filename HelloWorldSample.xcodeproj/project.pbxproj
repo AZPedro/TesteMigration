@@ -24,6 +24,7 @@
 		133973DA2943691200485FB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		133973DD2943691200485FB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		133973DF2943691200485FB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		133973E529436A5400485FB7 /* HelloWorldPackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = HelloWorldPackage; path = ../HelloWorldPackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		133973C52943690F00485FB7 = {
 			isa = PBXGroup;
 			children = (
+				133973E529436A5400485FB7 /* HelloWorldPackage */,
 				133973D02943690F00485FB7 /* HelloWorldSample */,
 				133973CF2943690F00485FB7 /* Products */,
 			);
